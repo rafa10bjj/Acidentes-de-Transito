@@ -35,6 +35,13 @@ Este projeto enfrentou e superou desafios importantes:
 * **Qualidade dos Dados:** 🚫 A principal dificuldade foi lidar com a heterogeneidade e a baixa qualidade dos dados de múltiplas fontes. Isso exigiu um esforço considerável em limpeza e padronização.
 * **Integração de Fontes:** 🔗 Conectar diferentes bases de dados com chaves inconsistentes demandou uma modelagem de dados robusta e flexível.
 * **Otimização de Performance:** 🚀 Para dashboards com grandes volumes de dados, foi fundamental otimizar o modelo e as visualizações para garantir um tempo de resposta aceitável.
+  
+<img width="1298" height="731" alt="Captura de tela 2025-08-13 144445" src="https://github.com/user-attachments/assets/dbba6b52-292c-41a3-84b9-f33140a14e1d" />
+
+<img width="1299" height="724" alt="Captura de tela 2025-08-13 144513" src="https://github.com/user-attachments/assets/064ded68-17ae-4c3e-9bbd-499ad48a7039" />
+
+<img width="1293" height="718" alt="Captura de tela 2025-08-13 144524" src="https://github.com/user-attachments/assets/be5cf4c1-4a9c-4480-8b59-874b45d039ca" />
+
 
 ###  Uso 🧑‍💻
 
